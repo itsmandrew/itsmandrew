@@ -6,6 +6,11 @@
 <p align = "left">
 <ul>
   <li>:man_student: Currently enrolled as a full time student, expected to graduate in 2024</li>
+  <li>:robot: Specializing in ML and Information </li>
+  <li>:weight_lifting_man: I'm currently working on a full-stack workout application</li>
+  <li>::books: Studying something as of now
+  <li>:earth_americas: Some of my hobbies include: weightlifting, basketball, and cooking :) </li>
+  
   </p>
 
 
