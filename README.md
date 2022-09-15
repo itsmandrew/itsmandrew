@@ -3,7 +3,9 @@
 
 <br>
 <h3 align="left">About Me:</h3>
-<p align = "left">I'm currently a student at the University of California, Irvine and am planning to specialize in ML and Information
+<p align = "left">
+<ul>
+  <li>Currently enrolled as a full time student, expected to graduate in 2024</li>
   </p>
 
 
