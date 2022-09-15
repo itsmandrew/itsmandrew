@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science @ University of California, Irvine</h3>
 
 
-- 🔭 I’m currently working on **a full-stack workout application**
+🔭 I’m currently working on **a full-stack workout application**
 
 <p align="left">
 </p>
