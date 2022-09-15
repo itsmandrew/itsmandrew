@@ -1,7 +1,7 @@
-### Hey :) 👋
+### Hey :) 👋\n
 
-Computer Science @ University of California, Irvine
-Specialization: ML and Information
+Computer Science @ University of California, Irvine\n
+Specialization: ML and Information\n
 
 <!--
 **itsmandrew/itsmandrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
