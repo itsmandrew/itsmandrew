@@ -1,6 +1,6 @@
-### Hey :) 👋\n
+### Hey :) 👋
 
-Computer Science @ University of California, Irvine\n
+###Computer Science @ University of California, Irvine
 Specialization: ML and Information\n
 
 <!--
