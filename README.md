@@ -1,7 +1,6 @@
 <h1 align="center">HEY IM ANDREW 👋</h1>
 <h3 align="center">Computer Science @ University of California, Irvine</h3>
 
-<br>
 <h3 align="left">About Me:</h3>
 <p align = "left">
 <ul>
