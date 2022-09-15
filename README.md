@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science @ University of California, Irvine</h3>
 
 
-<p> I'm currently a student at the University of California, Irvine and am planning to specialize in ML and Information
+<p>I'm currently a student at the University of California, Irvine and am planning to specialize in ML and Information
   </p>
 
 
