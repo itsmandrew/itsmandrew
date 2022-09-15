@@ -5,7 +5,7 @@
 <h3 align="left">About Me:</h3>
 <p align = "left">
 <ul>
-  <li>Currently enrolled as a full time student, expected to graduate in 2024</li>
+  <li>:man_student: Currently enrolled as a full time student, expected to graduate in 2024</li>
   </p>
 
 
