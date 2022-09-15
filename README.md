@@ -10,7 +10,7 @@
   <li>:weight_lifting_man: I'm currently working on a full-stack workout application</li>
   <li>::books: Studying something as of now
   <li>:earth_americas: Some of my hobbies include: weightlifting, basketball, and cooking :) </li>
-  
+ </ul>
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
