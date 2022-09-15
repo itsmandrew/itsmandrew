@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Andrew</h1>
 <h3 align="center">Computer Science @ University of California, Irvine</h3>
 
-
+<br>
 <h3 align="left">About Me:</h3>
 <p align = "left">I'm currently a student at the University of California, Irvine and am planning to specialize in ML and Information
   </p>
