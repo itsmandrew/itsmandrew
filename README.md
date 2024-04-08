@@ -1,18 +1,12 @@
-###
 
-<h1 align="center">Hey 👋! My name is Andrew Chang.</h1>
-<h2 align="center">Computer Science @ University of California, Irvine</h2>
+# Hey 👋! My name is Andrew Chang.
+## Computer Science @ University of California, Irvine.
 
-###
 
-<h3 align="left">About Me:</h3>
-<p align = "left">
-  <ul>
-    <li> Currently enrolled as a full time student, expected to graduate in winter 2024</li>
-    <li> </li>
-    
- </ul>
-</p>
+### 🌱 About Me
+- From Los Angeles, California
+- Interested in data infrastructures and distributed systems
+- My favorite basketball player is LeBron James
 
 ### 💼 Experience
 - Research Assistant @ Molloi Lab Imaging Physics (TBD)
@@ -69,8 +63,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/itsmandrew/itsmandrew/output/snake.svg" alt="Snake animation" />
-
-###
