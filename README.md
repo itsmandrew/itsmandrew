@@ -1,6 +1,7 @@
+<h1 align="center">Hey 👋! My name is Andrew Chang.</h1>
 
-# Hey 👋! My name is Andrew Chang.
-## Computer Science @ University of California, Irvine.
+###
+<h2 align="center">Computer Science @ University of California, Irvine</h2>
 
 
 ### 🌱 About Me
@@ -15,7 +16,7 @@
 - Programming Instructor @ WhizKids Computer Center (Jan 2022 - Nov 2022)
 
 ### 📫 Let's Get in Touch!
-[LinkedIn]((https://www.linkedin.com/in/itsmandrew/))
+[LinkedIn](https://www.linkedin.com/in/itsmandrew/)
 
 
 <div align="center">
