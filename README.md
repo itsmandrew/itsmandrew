@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋! My name is Andrew Chang.</h1>
 
 ###
-<h2 align="center">📚 Computer Science @ University of California, Irvine</h2>
+<h2 align="center"> 📚 Computer Science @ University of California, Irvine</h2>
 
 
 ### 🌱 About Me
