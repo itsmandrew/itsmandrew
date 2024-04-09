@@ -5,8 +5,8 @@
 
 
 ### 🌱 About Me
-- From Los Angeles, California
-- Interested in data infrastructures and distributed systems
+- I'm from Los Angeles, California
+- Interested in data infrastructures, distributed systems, and machine learning
 - My favorite basketball player is LeBron James
 
 ### 💼 Experience
