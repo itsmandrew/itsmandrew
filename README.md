@@ -6,7 +6,7 @@
 
 ### 🌱 About Me
 - I'm from Los Angeles, California
-- Interested in data infrastructures and machine learning
+- Interested in data infrastructures, machine learning, and also backend engineering
 - My favorite basketball player is LeBron James
 
 ### 💼 Experience
