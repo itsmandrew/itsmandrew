@@ -7,7 +7,7 @@
 ### 🌱 About Me
 - I'm from Los Angeles, California
 - Interested in data infrastructures, machine learning, and also backend engineering
-- My favorite basketball player is LeBron James
+- My favorite basketball player is LeBron James and Wemby
 
 ### 💼 Experience
 - Incoming Data Engineer Intern @ Ingram Micro (Summer 2024)
