@@ -10,9 +10,9 @@
 - My favorite basketball player is LeBron James and Wemby
 
 ### 💼 Experience
-- Data Engineer Intern @ Ingram Micro (Summer 2024)
+- Data & AI Engineer Intern @ Ingram Micro (Summer 2024)
 - Research Assistant @ Molloi Lab Imaging Physics (April 2024 - Present)
-- Data Engineer Intern @ San Antonio Spurs (Sep 2023 - May 2024)
+- Software Engineer Intern @ San Antonio Spurs (Sep 2023 - May 2024)
 - Lab Assistant @ UCI - Data Structures & Algorithms (Apr 2023 - Jun 2023)
 - Programming Instructor @ WhizKids Computer Center (Jan 2022 - Nov 2022)
 
