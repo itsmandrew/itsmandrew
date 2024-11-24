@@ -26,7 +26,7 @@
 
 ###
 
-<h2> 💻 Tech Stack </h2>
+<h2> 💻 Tech Stack + Tools </h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
