@@ -2,6 +2,7 @@
 
 ###
 <h2 align="center"> 📚 Computer Science @ University of California, Irvine</h2>
+![gengargif](https://github.com/user-attachments/assets/96fc1b60-2db0-4934-92ab-16f909780141)
 
 
 ### 🌱 About Me
