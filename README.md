@@ -11,7 +11,7 @@
 
 ### 💼 Experience
 - Incoming Software & Data Engineer Intern @ Tesla (Winter 2025)
-- Software Engineer Intern @ Ingram Micro (June 2024 - Present)
+- Software Engineer Intern @ Ingram Micro (June 2024 - December 2024)
 - Deep Learning Researcher @ Molloi Lab Imaging Physics (April 2024 - August 2024)
 - Software Engineer Intern @ San Antonio Spurs (Sep 2023 - May 2024)
 - Lab Assistant @ UCI - Data Structures & Algorithms (Apr 2023 - Jun 2023)
