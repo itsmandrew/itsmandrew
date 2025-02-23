@@ -10,7 +10,7 @@
 - My favorite basketball player is LeBron James and Wemby
 
 ### 💼 Experience
-- Incoming Software & Data Engineer Intern @ Tesla (Winter 2025)
+- Software Engineer Intern @ Tesla (December 2024 - Present)
 - Software Engineer Intern @ Ingram Micro (June 2024 - December 2024)
 - Deep Learning Researcher @ Molloi Lab Imaging Physics (April 2024 - August 2024)
 - Software Engineer Intern @ San Antonio Spurs (Sep 2023 - May 2024)
