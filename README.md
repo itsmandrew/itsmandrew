@@ -19,7 +19,7 @@
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmandrew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="400" height="300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmandrew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="600" height="300" alt="stats graph"  />
 </div>
 
 ### 💻 Tech Stack + Tools
