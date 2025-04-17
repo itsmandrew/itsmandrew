@@ -6,7 +6,7 @@
 
 ### 🌱 About Me
 - I'm from Los Angeles, California
-- Interested in data infrastructures, machine learning, and also backend engineering
+- Interested in distributed systems, API development, databases, and Golang :3
 - My favorite basketball player is LeBron James and Wemby
 
 ### 💼 Experience
