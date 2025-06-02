@@ -6,11 +6,12 @@
 
 ### 🌱 About Me
 - I'm from Los Angeles, California
-- Interested in distributed systems, API development, databases, and Golang :3
+- Interested in distributed systems, backend systems, and Golang :3
 - My favorite basketball player is LeBron James and Wemby
 
 ### 💼 Experience
-- Software Engineer Intern @ SoFi (May 2025 - Present)
+- Software Engineer Intern @ SoFi (June 2025 - Present)
+- Software Engineer Intern @ Oklahoma City Thunder (May 2025 - Present)
 - Software Engineer Intern @ Tesla (December 2024 - May 2025)
 - Software Engineer Intern @ Ingram Micro (June 2024 - December 2024)
 - Software Engineer Intern @ San Antonio Spurs (Sep 2023 - May 2024)
