@@ -11,12 +11,16 @@
 
 ### 💼 Experience
 - Software Engineer Intern @ SoFi (June 2025 - Present)
-- Software Engineer Intern @ Oklahoma City Thunder (May 2025 - Present)
 - Software Engineer Intern @ Tesla (December 2024 - May 2025)
 - Software Engineer Intern @ Ingram Micro (June 2024 - December 2024)
-- Software Engineer Intern @ San Antonio Spurs (Sep 2023 - May 2024)
 - Lab Assistant @ UCI - Data Structures & Algorithms (Apr 2023 - Jun 2023)
 - Programming Instructor @ WhizKids Computer Center (Jan 2022 - Nov 2022)
+
+
+### 🏀 Hoop Dreams
+- Software Engineer Intern @ OKC Thunder
+- Software Engineer Intern @ San Antonio Spurs
+
 
 <br> 
 <div align="left">
